@@ -1,0 +1,2 @@
+# galegao
+tesde do galego
